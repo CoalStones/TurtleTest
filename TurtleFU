@@ -1,1 +1,1 @@
-turtle.forward(1)
+turtle.forward()
