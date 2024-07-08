@@ -9,6 +9,7 @@ function checkDirection(direction)
 end
  
 direction = true
+level = 0
 while (level < 40) do
     a = 0
     repeat
